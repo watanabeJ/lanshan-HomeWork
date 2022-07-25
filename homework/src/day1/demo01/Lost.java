@@ -1,6 +1,4 @@
-package cn.itcast.day01.demo02;
-
-import java.util.Date;
+package day1.demo01;
 
 public class Lost {
 

@@ -1,4 +1,4 @@
-package cn.itcast.day01.demo02;
+package day1.demo01;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
